@@ -1,0 +1,14 @@
+[Epoch   1] T_loss: 0.69253, T_accuracy: 53.2747 | V_loss: 0.69218, V_accuracy: 52.6667 | Early stopping is stated! | T_time: 00:00:01, T_speed: 1.000
+[Epoch  10] T_loss: 0.69064, T_accuracy: 52.9629 | V_loss: 0.69399, V_accuracy: 47.3333 | Early stopping counter: 1 out of 10 | T_time: 00:00:11, T_speed: 0.909
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="CHECKPOINT_FILE_PATH" type="str" qualifier="builtins" value="C%3A%5CUsers%5Cpc%5CPycharmProjects%5Clink_dl%5Cgit%5Clink_dl%5C_03_your_code%5C4%5Ccheckpoints_classification" />
+<var name="batch_size" type="int" qualifier="builtins" value="32" />
+<var name="early_stop_delta" type="float" qualifier="builtins" value="1e-05" />
+<var name="early_stop_patience" type="int" qualifier="builtins" value="10" />
+<var name="epochs" type="int" qualifier="builtins" value="1000" />
+<var name="learning_rate" type="float" qualifier="builtins" value="0.001" />
+<var name="validation_intervals" type="int" qualifier="builtins" value="10" />
+<var name="weight_decay" type="float" qualifier="builtins" value="0.001" />
+</xml>
+wandb: WARNING Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.

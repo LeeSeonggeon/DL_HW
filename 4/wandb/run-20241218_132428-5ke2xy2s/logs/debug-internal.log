@@ -1,0 +1,12 @@
+{"time":"2024-12-18T13:24:28.3557478+09:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-12-18T13:24:28.3558711+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\pc\\PycharmProjects\\link_dl\\git\\link_dl\\_03_your_code\\4\\wandb\\run-20241218_132428-5ke2xy2s\\logs\\debug-core.log"}
+{"time":"2024-12-18T13:24:28.4872735+09:00","level":"INFO","msg":"created new stream","id":"5ke2xy2s"}
+{"time":"2024-12-18T13:24:28.4872735+09:00","level":"INFO","msg":"stream: started","id":"5ke2xy2s"}
+{"time":"2024-12-18T13:24:28.4877868+09:00","level":"INFO","msg":"sender: started","stream_id":"5ke2xy2s"}
+{"time":"2024-12-18T13:24:28.4877868+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"5ke2xy2s"}}
+{"time":"2024-12-18T13:24:28.4877868+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"5ke2xy2s"}}
+{"time":"2024-12-18T13:24:28.9559479+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-18T13:24:38.9565818+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-12-18T13:24:44.9823587+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T15:59:45.1401093+09:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/tmdrjs0040/lstm_classification_btc_krw/5ke2xy2s/file_stream"}
+{"time":"2024-12-18T15:59:45.1401093+09:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/tmdrjs0040/lstm_classification_btc_krw/5ke2xy2s/file_stream: {\"error\":\"run lstm_classification_btc_krw/5ke2xy2s not found while streaming file\"}"}

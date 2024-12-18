@@ -1,0 +1,30 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "3.11.9",
+  "startedAt": "2024-12-18T04:24:28.340821Z",
+  "program": "_03_your_code/4/homework4_1_classification.ipynb",
+  "git": {
+    "remote": "https://github.com/linklab/link_dl.git",
+    "commit": "90253379c1ccec4b6f8276c65fdd449900f27057"
+  },
+  "email": "tmdrjs0040@gmail.com",
+  "root": "C:\\Users\\pc\\PycharmProjects\\link_dl\\git\\link_dl\\_03_your_code\\4",
+  "host": "DESKTOP-AS7BDDQ",
+  "username": "pc",
+  "executable": "C:\\Users\\pc\\anaconda3\\envs\\link_dl\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 6,
+  "disk": {
+    "/": {
+      "total": "497327009792",
+      "used": "407666278400"
+    }
+  },
+  "memory": {
+    "total": "34301263872"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 6
+  }
+}
